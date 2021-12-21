@@ -25,7 +25,6 @@ To predict loan risk for Alphabet Soup, Machine Learning and Neural Networks are
     |Number of neurons on layer 4| 16|
     |Number of neurons on layer 5| 76|
     |Activation Function| Sigmoid|
-    | |  |
 
     However, it is worth noting that the difference in models regarding performance is marginal. 
 
