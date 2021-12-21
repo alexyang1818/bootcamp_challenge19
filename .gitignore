@@ -1,3 +1,11 @@
+# ignore the following files
+untitled_project/
+AlphabetSoupCharity_Optimization_drop_APPLICATION_TYPE.ipynb
+AlphabetSoupCharity_Optimization_drop_SPECIAL_CONSIDERATIONS.ipynb
+AlphabetSoupCharity_Optimization_increase_APPLICATION_TYPE.ipynb
+AlphabetSoupCharity_starter_code.ipynb
+AlphabetSoupCharity_unsupervised.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
